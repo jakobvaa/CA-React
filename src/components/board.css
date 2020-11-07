@@ -1,6 +1,6 @@
 .board-container {
   display: inline-grid;
-  grid-column-gap: 3px;
-  grid-row-gap: 3px;
+  grid-column-gap: 1px;
+  grid-row-gap: 1px;
 
 }

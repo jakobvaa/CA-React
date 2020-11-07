@@ -1,9 +1,9 @@
 import './App.css';
-import Game from './components/Game';
+import GameOfLife from './components/GameOfLife';
 function App() {
     return (
         <div className="App">
-            <Game n={70} withSettings={true} />
+            <GameOfLife n={80} withSettings={true} />
         </div>
 
     );
