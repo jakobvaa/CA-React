@@ -1,3 +1,10 @@
+# Conway's Game of Life
+Check out jakobvaa.github.io
+
+Project features a cellular automata with standard Game of Life rules. Also played around with some alternative neigbourhood definitions and spawning conditions.
+Using React, will create a new project using html5 canvas for improved efficiency.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
