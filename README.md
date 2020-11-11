@@ -1,7 +1,7 @@
 # Conway's Game of Life
 Check out [jakobvaa.github.io](jakobvaa.github.io)
 
-Project features a cellular automaton with [Game of Life rules](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Played around with some alternative neigbourhood definitions and spawning conditions.
+Project features a cellular automaton following the rules of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Played around with some alternative neigbourhood definitions and spawning conditions.
 Using React, will create a new project using html5 canvas for improved efficiency.
 
 
